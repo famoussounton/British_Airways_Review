@@ -1,19 +1,12 @@
-British Airways Review - Tableau Visualizations
+# British Airways Reviews Dashboard
 
-This project showcases my data visualization skills using Tableau. I analyzed customer reviews and ratings for British Airways to uncover insights into passenger satisfaction and areas for improvement. This README provides an overview of the project, including the purpose, visualizations, and how to view the dashboard.
+## Overview
+This project demonstrates my data visualization skills using Tableau. By analyzing customer reviews of British Airways, I created an interactive and insightful dashboard that highlights key metrics and trends to enhance decision-making and provide a better understanding of customer sentiments.
 
-Project Overview
+## Features
+- **Interactive Dashboard:** Explore customer review data with filters and drill-down capabilities.
+- **Key Metrics:** Analyze overall satisfaction, common themes, and areas of improvement.
+- **Visual Insights:** Gain insights from bar charts, pie charts, and trend lines.
 
-The goal of this project was to analyze and visualize customer reviews for British Airways. Using Tableau, I developed an interactive dashboard to explore trends, identify key satisfaction metrics, and provide actionable insights for decision-making.
-
-Key Features
-
-Interactive Visualizations: Dynamic charts and graphs for better storytelling.
-
-Customer Insights: Analysis of ratings, sentiment, and review trends.
-
-User-Friendly Dashboard: Intuitive layout to explore data with ease.
-
-Tools Used
-
-Tableau: For data visualization and dashboard creation.
+## Tools Used
+- **Tableau:** For creating and publishing the dashboard.
